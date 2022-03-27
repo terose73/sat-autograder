@@ -1,1 +1,3 @@
-cowpy==1.0.3
+imutils
+numpy
+cv2
